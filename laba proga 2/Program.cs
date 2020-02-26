@@ -13,6 +13,11 @@ namespace laba_proga_2
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Hello World!");
             string[] names = ReadText();
         }
         static string[] ReadText()
