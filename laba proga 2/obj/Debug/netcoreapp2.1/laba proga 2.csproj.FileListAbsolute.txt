@@ -9,3 +9,13 @@ C:\Users\elisa\source\repos\laba proga 2\laba proga 2\bin\Debug\netcoreapp2.1\la
 C:\Users\elisa\source\repos\laba proga 2\laba proga 2\bin\Debug\netcoreapp2.1\laba proga 2.pdb
 C:\Users\elisa\source\repos\laba proga 2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.dll
 C:\Users\elisa\source\repos\laba proga 2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.pdb
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\bin\Debug\netcoreapp2.1\laba proga 2.deps.json
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\bin\Debug\netcoreapp2.1\laba proga 2.runtimeconfig.json
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\bin\Debug\netcoreapp2.1\laba proga 2.runtimeconfig.dev.json
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\bin\Debug\netcoreapp2.1\laba proga 2.dll
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\bin\Debug\netcoreapp2.1\laba proga 2.pdb
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.AssemblyInfo.cs
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.dll
+C:\Users\User\Desktop\git-playground-master\laba-proga-2\laba proga 2\obj\Debug\netcoreapp2.1\laba proga 2.pdb
